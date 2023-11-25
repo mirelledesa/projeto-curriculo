@@ -85,6 +85,10 @@ font-size: 25px;
     top: 65px;
 }
 
+#line6{
+    position: relative;
+    top: 65px;
+}
 
 
 
@@ -103,6 +107,16 @@ font-size: 25px;
     top: 65px; 
 }
 
+#p6{
+    position: relative;
+    top: 65px; 
+}
+
+#p7{
+    position: relative;
+    
+}
+
 #listavazia{
     position: relative;
     top: 55px;
@@ -118,6 +132,13 @@ font-size: 25px;
 }
 
 #listavazia3{
+    position: relative;
+    top: 55px;
+    font-size: 25px;
+    font-weight: bold; 
+}
+
+#listavazia4{
     position: relative;
     top: 55px;
     font-size: 25px;
