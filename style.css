@@ -98,6 +98,11 @@ font-size: 25px;
     top: 65px;
 }
 
+#p5{
+    position: relative;
+    top: 65px; 
+}
+
 #listavazia{
     position: relative;
     top: 55px;
@@ -112,3 +117,18 @@ font-size: 25px;
     font-weight: bold;
 }
 
+#listavazia3{
+    position: relative;
+    top: 55px;
+    font-size: 25px;
+    font-weight: bold; 
+}
+
+#notab1{
+    position: relative;
+    left: 40px;  
+}
+#notab2{
+    position: relative;
+    left: 40px;
+}
