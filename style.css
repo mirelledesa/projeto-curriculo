@@ -114,7 +114,8 @@ font-size: 25px;
 
 #p7{
     position: relative;
-    
+    top: 65px;
+    bottom: 70px;
 }
 
 #listavazia{
