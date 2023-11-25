@@ -2,7 +2,6 @@ body {
     margin: 70px 100px;
 }
 
-
 #primeiro{
  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
  font-size: 60px; color:dimgrey; 
@@ -25,7 +24,6 @@ p{
     font-size: 27px;
 }
 
-
 hr{
     border: 2.5px solid black;
 }
@@ -34,13 +32,12 @@ strong{
 font-size: 25px;
 }
 
- 
 #strong3{
     position: relative;
     left: 180px;
-
 }
- b{
+ 
+b{
     position: relative;
     top: 40px;
     font-size: 25px;
@@ -55,7 +52,6 @@ font-size: 25px;
     position: relative;
     top: 60px;
     font-size: 27px;
-
  }
 
  #lista1{
@@ -63,7 +59,6 @@ font-size: 25px;
     top: 55px;
     font-size: 25px;
     font-weight: bold;
-
  }
  
  li{
@@ -89,8 +84,6 @@ font-size: 25px;
     position: relative;
     top: 65px;
 }
-
-
 
 #p3{
     position: relative;
@@ -150,6 +143,7 @@ font-size: 25px;
     position: relative;
     left: 40px;  
 }
+
 #notab2{
     position: relative;
     left: 40px;
